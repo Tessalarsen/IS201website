@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: whitesmoke;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+#top{
+    text-decoration: underline;
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+.emphasizedtext{
+    font-style: italic;
+    color: darkmagenta;
+   
+}
+
+ul{
+    list-style-position: inside; 
+    text-align-
+}
+ol{
+    list-style-position: inside;
+}
+
+img {
+    border-radius: 5px;
+}
+nav{
+    background-color: lightgrey;
+    padding:10px;
+    overflow:hidden;
+
+}
+nav a{
+    float: left;
+    padding: 20px 30px;
+text-decoration: none;
+color: #333;
+font-size: 16px;
+font-weight: bold;
+}
+nav a:hover{
+    background-color: #ccc;
+}
+.body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.tableauPlaceholder{
+   text-align: center;
+   padding-left: 10;
+   
+}

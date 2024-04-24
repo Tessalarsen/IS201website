@@ -1,0 +1,52 @@
+.Header{
+    background-color: black;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: whitesmoke;
+    left: 5px;
+    right:5px;
+
+}
+.Footer{
+    background-color: black;
+    color: white;
+    height: 25px;
+    bottom: 0px;
+    position:fixed;
+    left:5px;
+    right:5px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Footer{
+    padding: 10px;
+
+}
+nav{
+    background-color: lightgrey;
+    padding:10px;
+    overflow:hidden;
+
+}
+nav a{
+    float: left;
+    padding: 20px 30px;
+text-decoration: none;
+color: #333;
+font-size: 16px;
+font-weight: bold;
+}
+nav a:hover{
+    background-color: #ccc;
+}
